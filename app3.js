@@ -5,5 +5,5 @@ for(let i=0;i !== numero;i++){
     alert(`Hola`) //hasta que se cumple la condicion va a ir ejecutando Hola por un alert
 }
 
-//tengo un problema si el prompt queda vacio se mete en el for y queda ejecutandose indefinidamente. Pense lo siguiente: si hago un condicional con un if else y meto el for dentro deberia funcionar.
+//tengo un problema si el prompt queda vacio y doy enter, se mete en el for y queda ejecutandose indefinidamente. Pense lo siguiente: si hago un condicional con un if else y meto el for dentro ¿podria funcionar?.
 
