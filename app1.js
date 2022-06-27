@@ -1,3 +1,9 @@
-let numero1= parseInt(prompt(`Ingrese un numero`))
-let numero2 = parseInt(prompt(`Ingrese otro numero`))
+let numero= parseInt(prompt(`Ingrese un numero`))
+let resultado = " "
+
+
+for(let i = 0; i<10; i++) {
+    resultado = numero + i;
+    alert(resultado);
+}
 
